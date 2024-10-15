@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa Çifci</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
+- 🌱 I’m currently learning **Workintech, Full Stack Developer**
+
 - 📫 How to reach me **ms.cifci@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
